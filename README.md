@@ -92,6 +92,8 @@ At the head of the file, you can see `commitInfos`. You can edit that value to t
 
 ## Run test
 
+Make sure that your ganache is running on port `8545` and node modules are installed by `npm install`.
+
 ```bash
 npm run test:my
 ```
